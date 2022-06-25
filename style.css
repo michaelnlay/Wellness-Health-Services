@@ -6,6 +6,10 @@
 
 .center {
   align-items: center;
+  /* text-align: center; */
+}
+.centers {
+  align-items: center;
   text-align: center;
 }
 
@@ -28,6 +32,10 @@ a.nav-link {
   /* border-radius: 15px; */
 }
 
+a.nav-link:hover {
+  color: #8cc63f;
+}
+
 li.nav-item {
   border: 1px solid;
   text-decoration: none;
@@ -44,8 +52,6 @@ ul {
   font-weight: 700;
   background-color: #6c2976;
   color: white;
-
-  
 }
 
 .purple-text {
@@ -56,33 +62,42 @@ ul {
   font-weight: bolder;
 }
 
-.list{
+.list {
   background-color: white;
   font-weight: lighter;
   /* color: black; */
   font-size: 25px;
   /* font-weight: bold; */
-  
 }
 
-.btn{
+.btn {
   width: 300px;
   height: 80px;
   border-radius: 15px;
-  
+  /* background-color: #8cc63f; */
 }
 
-.contact{
+.contact {
   color: white;
-  font-size:30px;
+  font-size: 30px;
   font-weight: 500;
+  font-weight: bold;
 }
 
-.contact-font{
+.contact-font {
   font-size: 25px;
   font-weight: bold;
 }
 
-.top-box{
+.top-box a {
   text-decoration: none;
+  color: #6b2a76;
 }
+
+.top-box a:hover {
+  color: #8cc63f;
+}
+
+/* .left-margin {
+  margin-left: 50px;
+} */
