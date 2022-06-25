@@ -58,7 +58,10 @@ ul {
 
 .list{
   background-color: white;
-  color: black;
+  font-weight: lighter;
+  /* color: black; */
+  font-size: 25px;
+  /* font-weight: bold; */
   
 }
 
@@ -78,4 +81,8 @@ ul {
 .contact-font{
   font-size: 25px;
   font-weight: bold;
+}
+
+.top-box{
+  text-decoration: none;
 }
