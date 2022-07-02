@@ -16,7 +16,7 @@
 
 .center {
   align-items: center;
-  text-align: center;
+  /* text-align: center; */
 }
 .centers {
   align-items: center;
@@ -84,7 +84,7 @@ ul {
   width: 150px;
   height: 40px;
   /* border-radius: 25px; */
-  
+
   /* background-color: #8cc63f; */
 }
 
@@ -112,3 +112,22 @@ ul {
 /* .left-margin {
   margin-left: 50px;
 } */
+
+.career_background {
+  /* background-color: #8cc63f; */
+  min-height: 200px;
+}
+
+.leftside,
+.rightside {
+  min-height: 500px;
+  width: 100%;
+}
+
+.leftside {
+  /* background-color: lightblue; */
+}
+
+.rightside {
+  /* background-color: lightgreen; */
+}

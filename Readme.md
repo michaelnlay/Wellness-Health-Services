@@ -4,4 +4,4 @@
 
 ## It is still in a working progress.
 
-![home](./img/home1.JPG)
+![home](./img/home.JPG)
