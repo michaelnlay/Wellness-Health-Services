@@ -122,12 +122,15 @@ ul {
 .rightside {
   min-height: 300px;
   width: 100%;
+  
 }
 
 .leftside {
   /* background-color: lightblue; */
+  margin-left: 25px;
 }
 
 .rightside {
   /* background-color: lightgreen; */
+  margin-left: 50px;
 }
