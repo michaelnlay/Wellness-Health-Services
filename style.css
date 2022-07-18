@@ -2,8 +2,8 @@
 
 /* Reset */
 * {
-  /* margin: 0;
-  padding: 0; */
+  margin: 0;
+  padding: 0; 
   box-sizing: border-box;
   font-family: "Balsamiq Sans", cursive;
 }
@@ -132,5 +132,5 @@ ul {
 
 .rightside {
   /* background-color: lightgreen; */
-  margin-left: 50px;
+  /* margin-left: 50px; */
 }
