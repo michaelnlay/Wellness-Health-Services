@@ -121,16 +121,18 @@ ul {
 .leftside,
 .rightside {
   min-height: 300px;
-  width: 100%;
-  
+
 }
 
 .leftside {
   /* background-color: lightblue; */
-  margin-left: 25px;
+  margin-left: 200px;
+  /* border: 1px solid red; */
 }
 
 .rightside {
   /* background-color: lightgreen; */
   /* margin-left: 50px; */
+  /* border: 1px solid blue; */
+  /* margin-right: 100px; */
 }
