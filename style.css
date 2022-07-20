@@ -3,7 +3,7 @@
 /* Reset */
 * {
   margin: 0;
-  padding: 0; 
+  padding: 0;
   box-sizing: border-box;
   font-family: "Balsamiq Sans", cursive;
 }
@@ -109,10 +109,6 @@ ul {
   color: #8cc63f;
 }
 
-/* .left-margin {
-  margin-left: 50px;
-} */
-
 .career_background {
   /* background-color: #8cc63f; */
   min-height: 200px;
@@ -121,7 +117,6 @@ ul {
 .leftside,
 .rightside {
   min-height: 300px;
-
 }
 
 .leftside {
@@ -134,5 +129,16 @@ ul {
   /* background-color: lightgreen; */
   /* margin-left: 50px; */
   /* border: 1px solid blue; */
- 
 }
+
+/* .nav-logo {
+  @media screen and (max-width: 360px) {
+    width: 50px;
+    margin: 0 0;
+  }
+
+  @media screen and (max-width: 1040px) {
+    width: 20%;
+    margin: 0 0;
+  }
+} */
