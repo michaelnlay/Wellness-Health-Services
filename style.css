@@ -38,6 +38,7 @@ a.nav-link {
   font-size: 25px;
   text-decoration: none;
   color: inherit;
+  margin: 0 25px;
 
   /* border-radius: 15px; */
 }
@@ -111,7 +112,7 @@ ul {
 
 .career_background {
   /* background-color: #8cc63f; */
-  min-height: 200px;
+  min-height: 350px;
 }
 
 .leftside,
